@@ -17,7 +17,7 @@ const Navbar = () => {
                  text-white mr-10'>
                     <a href={`#{nav.id}`}>
                         {nav.title}
-                    </a>
+                    </a> 
                 </li>
             ))}
         </ul>
